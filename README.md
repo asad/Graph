@@ -39,17 +39,6 @@ City A --25--> City E
 ```
 ---
 
-## Example
-
-### Input Graph (Traffic Network):
-Nodes represent cities, and edges represent roads with weights as travel times:
-
-```plaintext
-City A --5--> City B --10--> City C
-City A --15--> City C --3--> City D --8--> City E
-City B --20--> City D
-City A --25--> City E
-
 ## Outputs:
 
 - **Load Points**: Nodes with high traffic contributions.
